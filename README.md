@@ -1,6 +1,6 @@
 # P027 - WEKA 2A - v1.0
 
-<img src="assets/WEKA_v1.0_Front.JPG" width="300"> <img src="assets/WEKA_v1.0_Back.JPG" width="260">
+<img src="assets/WEKA-v1.0_Front.JPG" width="300"> <img src="assets/WEKA-v1.0_Rear.JPG" width="300">
 
 WEKA is a compact dual DC-motor ESC: originally designed for combat robots, but is suitable for any application requiring a lightweight durable motor driver.
 
