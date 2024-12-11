@@ -1,29 +1,29 @@
-# P027 - WEKA 2A - v1.0
+# WEKA - 2A v1.1
 
-<img src="assets/WEKA-v1.0_Front.JPG" width="300"> <img src="assets/WEKA-v1.0_Rear.JPG" width="300">
+<img src="assets/WEKA_Front.jpg" width="300"> <img src="assets/WEKA_Rear.jpg" width="300">
 
 WEKA is a compact dual DC-motor ESC: originally designed for combat robots, but is suitable for any application requiring a lightweight durable motor driver.
 
-Developed in [Christchurch, New Zealand ](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) by Connor Benton and tested in [Nashua, USA ](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) by Seth Schafer.
+Developed and tested in [Christchurch, New Zealand ](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) by Connor Benton.
 
 ## FEATURES
 
-- 2x Bi-Directional DC-motor outputs
-- Status LED's to indicate run, fault and calibration modes
-- Under-voltage, over-current, and over-temperature protection
-- Internal BEC to provide power to the radio reciever
-- Failsafe checks for loss of connection with radio
-- Calibrate function to customise drive mode, channel mapping, and channel inversion
-- Includes a 100nF capacitor across each motor to filter noise and voltage spikes
+- 2x Bi-Directional DC-motor outputs.
+- Status LED's to indicate run mode, fault and calibration.
+- Under-voltage, over-current, and over-temperature protections.
+- Internal BEC to provide power to the radio reciever.
+- Failsafe checks for loss of connection with radio.
+- Calibrate function to customise drive mode, channel mapping, and channel inversion.
+- Includes a 100nF capacitor across each motor to filter noise and voltage spikes.
 
 ## SPECIFICATIONS
 
-- **Dimensions:** 24x17x3 mm
-- **Weight:** 4g *excluding wires*
-- **Input Voltage - Min:** 6V
-- **Input Voltage - Max:** 4S LiHv (17.4V)
+- **Dimensions:** 24x17x4 mm
+- **Weight:** 3g *excluding wires*
+- **Input Voltage - Rated:** 2-4S LiPo (6.0-16.8V)
+- **Input Voltage - Absolute Max:** 28V
 - **Motor Output - Continuious:** 2A per channel 
-- **Motor Output - Peak:** 20A per channel 
+- **Motor Output - Peak:** 3.6A per channel 
 - **BEC:** 5V, 250mA. Designed to power the radio reciever but no servos
 - **Signal Input:** Servo PWM
 
