@@ -18,28 +18,27 @@ Developed and tested in [Christchurch, New Zealand ](https://www.google.co.nz/ma
 
 ## SPECIFICATIONS
 
-- **Dimensions:** 24x17x4 mm
+- **Dimensions:** 24x17x4 mm 
 - **Weight:** 3g *excluding wires*
-- **Input Voltage - Rated:** 2-4S LiPo (6.0-16.8V)
-- **Input Voltage - Absolute Max:** 28V
+- **Input Voltage:** 2-4S LiPo (6.0-16.8V)
 - **Motor Output - Continuious:** 2A per channel 
 - **Motor Output - Peak:** 3.6A per channel 
-- **BEC:** 5V, 250mA. Designed to power the radio reciever but no servos
+- **BEC:** 5V, 100mA. Designed to power the radio reciever but no servos
 - **Signal Input:** Servo PWM
 
 ## USAGE
 ### Status LEDs
 
-There are 3 LEDs on the WEKA (1x red, 2x blue). The red LED is in the center and a blue LED on edge beside each output.
+There are 3 LEDs on the WEKA (1x red, 2x blue). The red LED is in the center and a blue LED are on the edges beside each output.
  - **Normal Operation**
     - **No Power** Red: OFF, 2x Blue: OFF
     - **Standby** Red: ON, 2x Blue: OFF
     - **Driving** Red: ON, 2x Blue: ON. Each blue LED will illuminate when their corresponsing motor output is being driven.
  - **Fault Conditions**
-    - **Signal-Input** RED: ON, 2x Blue: ALTERNATING FLASH
-    - **Under-Voltage** RED: ON, 2x Blue: FLASH (1Hz)
-    - **Over-Temperature** RED: ON, 2x Blue: FAST FLASH (5Hz)
- - **Calibration** RED: ON, 2x Blue: PATTERN. (See Calibration section for specific LED patterns) 
+    - **Signal-Input** Red: ON, 2x Blue: ALTERNATING FLASH
+    - **Under-Voltage** Red: ON, 2x Blue: FLASH (1Hz)
+    - **Over-Temperature** Red: ON, 2x Blue: FAST FLASH (5Hz)
+ - **Calibration** Red: ON, 2x Blue: PATTERN. (See Calibration section for specific LED patterns) 
 
 ### Fault Conditions
 
