@@ -1,10 +1,10 @@
-# WEKA - 2A v1.1
+# WEKA SRL - 2A v1.2 
 
-<img src="assets/WEKA_Front.jpg" width="300"> <img src="assets/WEKA_Rear.jpg" width="300">
+<img src="assets/WEKA_Front.jpg" width="300"> <img src="assets/WEKAa_Rear.jpg" width="300">
 
-WEKA is a compact dual DC-motor ESC: originally designed for combat robots, but is suitable for any application requiring a lightweight durable motor driver.
+The WEKA is a compact dual DC-motor ESC: originally designed to power the drive system of a combat robots, but is suitable for any application requiring a lightweight durable motor driver.
 
-Developed and tested in [Christchurch, New Zealand ](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) by Connor Benton.
+Developed, assembled, and tested in [Christchurch, New Zealand ](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) by Connor Benton. 
 
 ## FEATURES
 
