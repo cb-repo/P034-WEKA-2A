@@ -1,10 +1,15 @@
 # WEKA SRL - 2A v1.2 
 
-<img src="assets/WEKA_Front.jpg" width="300"> <img src="assets/WEKAa_Rear.jpg" width="300">
+<img src="assets/WEKA_Front.JPG" width="300"> <img src="assets/WEKA_Back.JPG" width="300">
 
-The WEKA is a compact dual DC-motor ESC: originally designed to power the drive system of a combat robots, but is suitable for any application requiring a lightweight durable motor driver.
+<img src="assets/weka.jpg" width="300">
+
+WEKA is a compact dual DC-motor speed controller, designed to be a robust lightweight control platform for combat robots and other high-performance robotic systems. It features flexible mixing options, braking control, and direct radio input compatibility, offering smooth integration without bulky wiring or external logic. 
+
+The product is named after the [Weka](https://en.wikipedia.org/wiki/Weka), a curios and tenacious flightless bird endemic to New Zealand. 
 
 Developed, assembled, and tested in [Christchurch, New Zealand ](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) by Connor Benton. 
+
 
 ## FEATURES
 
