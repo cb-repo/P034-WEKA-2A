@@ -33,16 +33,16 @@ Developed, assembled, and tested in [Christchurch, New Zealand ](https://www.goo
 ## USAGE
 ### Status LEDs
 
- There are 3 LEDs on the WEKA (1x red, 2x blue). The red LED is in the center and a blue LEDs are on each edge beside the motor outputs. See table below to detail LED behaviour:
+There are 3 LEDs on the WEKA (1x red, 2x blue). The red LED is in the center and a blue LEDs are on each edge beside the motor outputs. See table below to detail LED behaviour:
 
-| State                     | Red LED   | Blue LEDs | | 
-| :---:                     | :---:     | :---:     | :---  
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br> State| Red <br> LED   | Blue <br> LEDs | | 
+| :---:                     | :---:     | :---:     | :--- 
 | No Power                  | OFF       | OFF       |  
 | Standby                   | ON        | OFF       |         
 | Driving                   | ON        | ON        | Each blue LED will immunimate when their corresponding input is being driven. 
-| Fault Signal-Input        | ON        | ALTERNATING FLASH       | 1Hz  
-| Fault Under-Voltage       | ON        | FLASH         | 1Hz
-| Fault Over-Temperature    | ON        | FAST FLASH    | 5Hz 
+| Fault <br> Signal-Input        | ON        | ALTERNATING FLASH       | 1Hz  
+| Fault <br> Under-Voltage       | ON        | FLASH         | 1Hz
+| Fault <br> Over-Temp    | ON        | FAST FLASH    | 5Hz 
 | Calibration               | ON        | PATTERN       | See Calibration section for specific LED patterns
 
 ### Fault Conditions
@@ -68,9 +68,7 @@ WEKA continuously monitors for several fault conditions during operation. The mo
     *Note: You should still set the failsafe on the radio reciever to handle a loss of connection between the reciever and transmitter.*
 
 
-### Calibration
-###### Calibration Parameters
-
+## Calibration
 The WEKA has a number of parameters that are auto-detected during the calibration process. These are:
 
 - **Driving Mode:**
@@ -154,7 +152,7 @@ Calibration settings are only saved once the entire procedure is completed. If y
         - Unlike braking enable, the motors will not twitch again.
     - Both LEDs pulse 3× to confirm completion of current step.
 
- 6. Calibration Complete
+ 5. Calibration Complete
      - Both blue LEDs pulse 10× to indicate completion of calibration and the parameters are saved.  
      - The WEKA immediately enters Normal Operation using the new calibration settings.
      
