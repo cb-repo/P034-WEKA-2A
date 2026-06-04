@@ -1,4 +1,4 @@
-# WEKA SRL - 2A v1.2
+# WEKA SRL - 2A v1.3
 
 <img src="assets/WEKA_Front.jpg" width="300"> <img src="assets/WEKA_Back.jpg" width="300">
 
