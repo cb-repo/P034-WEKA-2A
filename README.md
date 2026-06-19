@@ -6,7 +6,7 @@
 
 The WEKA is a compact dual DC-motor speed controller, designed to be a robust lightweight control platform for combat robots and other high-performance robotic systems. It features flexible mixing options, braking control, and direct radio input compatibility, offering smooth integration without bulky wiring or external logic. 
 
-The product is named after the [Weka](https://en.wikipedia.org/wiki/Weka), a curious and tenacious flightless bird endemic to New Zealand. 
+The product is named after the [Weka](https://en.wikipedia.org/wiki/Weka), a curious and tenacious flightless rail endemic to New Zealand. Known for their bold and curious nature, weka are quick on their feet and famously unbothered by people, often wandering right up to investigate. 
 
 Developed, assembled, and tested in [Christchurch, New Zealand ](https://www.google.co.nz/maps/place/Christchurch+New+Zealand) by Connor Benton. 
 
